@@ -1,21 +1,21 @@
 {
-  "name": "Tourney3",
+  "name": "Grief",
   "nations": [
     {
       "coordinates": [437, 410],
-      "name": "North West"
+      "name": "Empire"
     },
     {
       "coordinates": [1066, 408],
-      "name": "North East"
+      "name": "Nomads"
     },
     {
       "coordinates": [433, 1088],
-      "name": "South West"
+      "name": "Woodneck"
     },
     {
       "coordinates": [1068, 1075],
-      "name": "South East"
+      "name": "Shorts"
     }
   ]
 }
